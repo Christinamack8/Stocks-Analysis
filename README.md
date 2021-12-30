@@ -10,4 +10,4 @@ Refactor VBA code and measure performance of years 2017 and 2018 to determine if
 The advantages of refractoring is to make the code more efficient.  It uses by fewer steps, using and less memory.  It also make it easier to read.
 The disadvantage of refractoring is that it is risky when the application is big or there are not proper test cases.
 ### 2.) How do these pros and cons apply to refactoring the original VBA script?
-Refractoring our stick analysis code decreased our run time significantly.  There were no cons of refractoring our current code that i could identify.
+Refractoring our stock analysis code decreased our run time significantly.  There were no cons of refractoring our current code that i could identify.
